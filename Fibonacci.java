@@ -1,4 +1,5 @@
 public class Fibonacci {
+    // fabonacci series... Time complexity = O(2 ki Pow n)
     public static int fab(int n) {
         // base case...
         if (n == 0 || n == 1) {
